@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+        body {font-size:20px;}
+            body {background-color:rgb(51,63,72);}
+            h1 {color:rgb(185,151,91); font-family:"arial",sans-serif;text-shadow:2px 2px rgb(51,63,72);background-color:rgb(200,16,46);text-align:center;font-style:italic;}
+            
+            h2 {color:rgb(185,151,91);font-family:sans-serif;text-shadow:2px 2px rgb(51,63,72);}
+            h2 {background-color:rgb(200,16,46);text-align:center;}
+            .topics {color:rgb(185,151,91);}
+            ul {color:rgb(185,151,91);}
+            .topics {background-color:rgb(35,31,32);text-align:justify;}
+        #anniversary {background-color:rgb(35,31,32);text-align:center; color:rgb(185,151,91);}
+           #chart {background-color:rgb(200,16,46);}
+           #chart {color:rgb(185,151,91);font-family:sans-serif;text-align:center;}
+          
+           #things {color:rgb(200,16,46);background-color:rgb(185,151,91);font-family:"arial",sans-serif;}
+           .memorabilia {color:rgb(185,151,91);font-family:"arial",sans-serif;}
+           .items {font-family:"arial",sans-serif; font-size:.75em;}
+#detroit {color:red;} 
+#buying-things {background-color:black;width:10%}
+
+
+        </style>
+    </head>
+    <body>
+        <h1>VEGAS BABY</h1>
+        <p id="anniversary"><em><strong>Get Hype!</strong></em> The McCowan 10th Anniversary Extravaganza will be heading west to exotic Las Vegas, Nevada!  
+        </p>
+        <img src="https://patchinpictures.com/wp-content/uploads/2014/05/Vegas-Skyline-Steve-Patchin.jpg" width="1600";>
+   
+        <h2>Events</h2>
+    <p class="topics"> 
+    
+        <ul class="topics">
+    
+          <li> <span id="detroit">Detroit Red Wings</span> vs. Vegas Golden Knights
+        <li>Michael Jackson Experience
+        <li>Penn & Teller Illusion Experience
+        <li>Haunted House Museum
+        </ul>
+        
+        <h2> Let's Do the Hockey</h2>
+        
+        <p class="topics">
+        
+        We'll be rocking in the <strong> Fortress </strong> to cheer on our <strong>Golden Knights</strong> as they take on the visiting Red Wings! Get ready to open up the checkbooks, because we are going to go <em>crazy</em> in The Armory! 
+        
+        </p>
+        <h3 id="things">Things I want to buy:</h3>
+      
+      <div id="buying-things"  <ol>
+            <li class="memorabilia">Jersey
+            <li class="memorabilia">Pucks
+            <li class="memorabilia">Hat
+            <li class="memorabilia">Shot Glass 
+            
+        </ol>
+      </div>
+    <table>
+    <thead>
+        <tr id="chart">
+            <th>Event</th>
+            <th>Places</th>
+            <th>Cost</th>
+        </tr>
+        
+        </thead>
+        <tbody class="topics">
+            <tr>
+                <td class="items">Hockey Game</td>
+                <td class="items">T-Mobile Arena</td>
+                <td class="items">$200
+            </tr>
+            <tr >
+                <td class="items">Michael Jackson Experience</td>
+                <td class="items">TBD</td>
+                <td class="items">TBD</td>
+            </tr>    
+            <tr>
+                <td class="items">Penn & Teller</td>
+                <td class="items">Magic House</td>
+                <td class="items">TBD
+            </tr>
+        </tbody>
+    </table>
+    <h2>Foodage</h2>
+    <p class="topics">
+    I am super excited about all the vegan food options <strike>Las Vegans</strike> Las Vegas has to offer! There is a place called the Modern Vegan a short walk from our hotel, and I'm hoping to stop there for at least a couple meals. There's also a place called Cafe No Fur, that might be controversial, but I'm sure will end up on the agenda as well.
+      </p>
+<img src="https://foodmill.com.au/wp-content/uploads/2017/06/WEB-BANNER.jpg" height="200" alt="Vegan for the animals" align=center>
+    </body>
+</html>
